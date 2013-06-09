@@ -52,6 +52,9 @@ img{ max-width: 100%; }
 @media only screen and (max-width: 767px) {
 	
 	#logo { width: 80%; }
+	
+	#logo #sitename a{ font-size: 25px;}
+	
 	/*hide*/
 	.flexslider .caption{ display: none; }
 	
@@ -87,6 +90,8 @@ img{ max-width: 100%; }
 
 /* Note: Design for a width of 420px */
 @media only screen and (min-width: 480px) and (max-width: 767px) {
+	
+	#logo #sitename a{ font-size: 32px;}
 	
 	#wrap{ width: 420px; }
 	.preface-block, #footer-one, #footer-three{ width: 200px; margin-right: 20px; }

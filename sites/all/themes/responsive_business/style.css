@@ -1,8 +1,8 @@
 /*
 www.devsaran.com
-*/
-@import url(http://fonts.googleapis.com/css?family=Droid+Serif:400,400italic,700,700italic);
 
+@import url(http://fonts.googleapis.com/css?family=Droid+Serif:400,400italic,700,700italic);
+*/
 /* =Reset
 -------------------------------------------------------------- */
 html, body, div, span, applet, object, iframe,
@@ -86,7 +86,7 @@ body {
   font-size: 13px;
   line-height: 1.7em;
   color: #555;
-  font-family: 'Droid Serif', Helvetica Nue, Arial, Helvetica, sans-serif;
+  font-family: Helvetica,Helvetica Neue,Arial;
 }
 a {
   text-decoration: none;
